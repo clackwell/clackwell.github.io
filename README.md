@@ -4,4 +4,4 @@ Testing.
 
 Trying a bookmarklet:
 
-[smart JSON order boommarklet](javascript:alert(“Test”))
+[smart JSON order bookmarklet](javascript:alert(“Test”))
