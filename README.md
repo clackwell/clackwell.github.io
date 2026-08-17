@@ -4,4 +4,4 @@ Testing.
 
 Trying a bookmarklet:
 
-[smart JSON order bookmarklet](javascript:alert(“Test”))
+[smart JSON order bookmarklet](https:www.microsoft.com)
